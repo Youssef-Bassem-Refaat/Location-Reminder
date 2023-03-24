@@ -45,7 +45,7 @@ class RemindersActivityTest :
     private lateinit var repository: ReminderDataSource
     private lateinit var appContext: Application
 
-    private val  = DataBindingIdlingResource()
+    private val dataBindingIdlingResource = DataBindingIdlingResource()
 
 
     /**
